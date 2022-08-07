@@ -10,15 +10,15 @@
       },
       {
          "name":"Mozzarella e Tartufo",
-         "poster":"https://...",
-         "description":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/mozzarellatartufo.jpg",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/mozzarellatartufo.jpg",
+         "description":"mozzarella con tartufo",
          "price":"6"
       }
    ],
    "firstcourses":[
       {
          "name":"Carbonara Cracco",
-         "poster":"https://...",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/carbonara.jpeg",
          "description":"descrizione carbonara",
          "price":"18.50 "
       },
