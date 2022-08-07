@@ -22,5 +22,7 @@
          "description":"descrizione amatriciana",
          "price":"14.90"
       }
-   ]
+   ],
+   "totalstartes":2,
+   "totalfirstcourses":1
 }
