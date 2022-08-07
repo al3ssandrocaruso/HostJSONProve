@@ -1,3 +1,7 @@
 {
-"name":"Cracco"
+"name":"Cracco",
+"price":"€€€€",
+"address": "Corso Vittorio Emanuele II",
+"city":"Milano",
+"phone":"02 876774"
 }
