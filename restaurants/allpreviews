@@ -3,20 +3,20 @@
       {
          "id":"0",
          "name":"Cracco Restaurant",
-         "type":"italian",
+         "type":"Italian",
          "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/logos/logocracco.jpg"
       },
       {
          "id":"1",
-         "name":"Ristorante 1",
-         "type":"mexican",
-         "poster":"https://m.media-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
+         "name":"SUGO Lounge",
+         "type":"Italian",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/logos/logosugo.png"
       },
       {
          "id":"2",
-         "name":"Ristorante 2",
-         "type":"sushi",
-         "poster":"https://m.media-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
+         "name":"El Sondito",
+         "type":"Mexican",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/logos/logomessicano.png"
       }
    ],
    "totalResults":3
