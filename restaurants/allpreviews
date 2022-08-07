@@ -14,9 +14,9 @@
       },
       {
          "id":"2",
-         "name":"El Mexicano",
+         "name":"Mexican City",
          "type":"Mexican",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/logos/logosugo.png"
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/logos/logomexican.jpg"
       }
    ],
    "totalResults":3
