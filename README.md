@@ -1,1 +1,1 @@
-# HostJSONProve
+# Host information for Menu App
