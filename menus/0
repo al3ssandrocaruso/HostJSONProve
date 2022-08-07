@@ -17,12 +17,6 @@
    ],
    "firstcourses":[
       {
-         "name":"Carbonara Cracco",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/carbonara.jpeg",
-         "description":"descrizione carbonara",
-         "price":"18.50 "
-      },
-      {
          "name":"Amatriciana Cracco",
          "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Amatriciana.jpg",
          "description":"descrizione amatriciana",
