@@ -1,1 +1,28 @@
-Scrivi menu di ristorante 0
+"id":"0",
+"ristorante": "Cracco Restaurant",
+"starters": [
+{
+"name": "tagliere salumi",
+"poster": "https://...",
+"description": "descrizione tagliere salumi",
+"price": "12.50"
+},
+{
+"name": "mozzarella",
+"poster": "https://...",
+"description": "descrizione mozzarella",
+"price": "6"
+}],
+"firstcourses": [
+"name": "Carbonara",
+"poster": "https://...",
+"description": "descrizione carbonara",
+"price": "18.50 "
+},
+{
+"name": "Amatriciana",
+"poster": "https://...",
+"description": "descrizione amatriciana",
+"price": "14.90"
+}
+]
