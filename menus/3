@@ -1,0 +1,17 @@
+{
+   "id":"3",
+   "ristorante":"Healty Color",
+   "starters":[
+      
+   ],
+   "firstcourses":[
+      {
+         "name":"Bowl Riso",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Amatriciana.jpg",
+         "description":"descrizione bowl riso",
+         "price":"7.90"
+      }
+   ],
+   "totalstarters":0,
+   "totalfirstcourses":1
+}
