@@ -24,7 +24,14 @@
          "type":"Healty",
          "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/logos/logohealtycolor.png"
       }
+      ,
+      {
+         "id":"4",
+         "name":"Starbucks",
+         "type":"Coffee break",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/logos/starbuckslogo.png"
+      }
       
    ],
-   "totalResults":4
+   "totalResults":5
 }
