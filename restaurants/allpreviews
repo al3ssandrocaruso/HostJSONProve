@@ -14,7 +14,12 @@
          "id":"1",
          "name":"SUGO Lounge",
          "type":"Italian",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/logos/logosugo.png"
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/logos/logosugo.png",
+         "name":"SUGO Lounge",
+         "price":"€€€",
+         "address": "Corso Roma",
+         "city":"Firenze",
+         "phone":"06 876774"
       },
       {
          "id":"2",
