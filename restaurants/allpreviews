@@ -35,7 +35,11 @@
          "id":"3",
          "name":"Healty Color",
          "type":"Healty",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/logos/logohealtycolor.png"
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/logos/logohealtycolor.png",
+         "price":"€€",
+         "address": "Piazza Carlo Felice 22",
+         "city":"Torino",
+         "phone":"011 238223"
       }
       ,
       {
