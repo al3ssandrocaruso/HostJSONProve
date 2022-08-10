@@ -46,7 +46,11 @@
          "id":"4",
          "name":"Starbucks",
          "type":"Coffee break",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/logos/starbuckslogo.png"
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/logos/starbuckslogo.png",
+         "price":"€€",
+         "address": "Corso Vittorio Veneto",
+         "city":"Padova",
+         "phone":"09 876774"
       }
       
    ],
