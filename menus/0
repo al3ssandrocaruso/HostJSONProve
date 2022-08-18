@@ -47,6 +47,100 @@
          "price":"10.50"
       }     
    ],
+   "secondcourses":[
+      {
+         "name":"Tagliata di manzo",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/tagliata-di-manzo.jpg",
+         "description":"descrizione tagliata di manzo",
+         "price":"12.00"
+      },
+      {
+         "name":"Cotoletta",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/cotoletta-patatine.jpg",
+         "description":"descrizione cotoletta e patatine",
+         "price":"7.50"
+      }
+   ],
+   "sides":[
+      {
+         "name":"Insalata greca",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/insalata_greca.jpg",
+         "description":"descrizione insalata greca",
+         "price":"4"
+      },
+      {
+         "name":"Patate",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/patate-al-forno.jpg",
+         "description":"patate al forno",
+         "price":"3.50"
+      },
+      {
+         "name":"Zucchine grigliate",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/zucchine-grigliate.jpg",
+         "description":"descrizione zucchine grigliate",
+         "price":"3"
+      }
+   ],
+   "fruits":[
+      {
+         "name":"Frutta mista",
+         "poster":"",
+         "description":"descrizione frutta mista",
+         "price":"4.50"
+      },
+      {
+         "name":"Spiedini di frutta",
+         "poster":"",
+         "description":"descrizione spiedini di frutta",
+         "price":"4"
+      }
+   ],
+   "desserts"[
+      {
+         "name":"Panna cotta al mango",
+         "poster":"",
+         "description":"descrizione panna cotta al mango",
+         "price":"4.50"
+      },{
+         "name":"Mille foglie",
+         "poster":"",
+         "description":"descrizione mille foglie",
+         "price":"4.50"
+      },{
+         "name":"Cheescake alla fragola",
+         "poster":"",
+         "description":"descrizione cheescake alla fragola",
+         "price":"5"
+      }
+   ],
+   "drinks":[
+      {
+         "name":"Acqua naturale",
+         "poster":"",
+         "description":"Acqua naturale",
+         "price":"2"
+      },{
+         "name":"Acqua frizzante",
+         "poster":"",
+         "description":"Acqua frizzante",
+         "price":"2"
+      },{
+         "name":"Coca-Cola",
+         "poster":"",
+         "description":"Coca-Cola",
+         "price":"3"
+      },{
+         "name":"Birra Beck's",
+         "poster":"",
+         "description":"Birra Beck's",
+         "price":"4"
+      }
+   ],
    "totalstarters":2,
-   "totalfirstcourses":5
+   "totalfirstcourses":5,
+   "totalsecondcourses":2,
+   "totalsides":3,
+   "totalfruits":2,
+   "totaldesserts":3,
+   "totaldrinks":4
 }
