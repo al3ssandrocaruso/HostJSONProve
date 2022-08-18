@@ -84,13 +84,13 @@
    "fruits":[
       {
          "name":"Frutta mista",
-         "poster":"",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/piatto-frutta.jpg",
          "description":"descrizione frutta mista",
-         "price":"4.50"
+         "price":"6"
       },
       {
          "name":"Spiedini di frutta",
-         "poster":"",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/spiedini_frutta.jpg",
          "description":"descrizione spiedini di frutta",
          "price":"4"
       }
@@ -98,17 +98,17 @@
    "desserts"[
       {
          "name":"Panna cotta al mango",
-         "poster":"",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/panna_cotta_mango.jpg",
          "description":"descrizione panna cotta al mango",
          "price":"4.50"
       },{
          "name":"Mille foglie",
-         "poster":"",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/millefoglie.jpg",
          "description":"descrizione mille foglie",
          "price":"4.50"
       },{
          "name":"Cheescake alla fragola",
-         "poster":"",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/cheesecake.png",
          "description":"descrizione cheescake alla fragola",
          "price":"5"
       }
@@ -116,22 +116,22 @@
    "drinks":[
       {
          "name":"Acqua naturale",
-         "poster":"",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/acqua_naturale.png",
          "description":"Acqua naturale",
          "price":"2"
       },{
          "name":"Acqua frizzante",
-         "poster":"",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/acqua_frizzante.png",
          "description":"Acqua frizzante",
          "price":"2"
       },{
          "name":"Coca-Cola",
-         "poster":"",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/coca_cola.png",
          "description":"Coca-Cola",
          "price":"3"
       },{
          "name":"Birra Beck's",
-         "poster":"",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/becks.png",
          "description":"Birra Beck's",
          "price":"4"
       }
