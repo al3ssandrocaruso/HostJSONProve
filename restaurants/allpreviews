@@ -8,8 +8,7 @@
          "price":"€€€€",
          "address": "Corso Vittorio Emanuele II",
          "city":"Milano",
-         "phone":"02 876774",
-         "pdfmenu":"https://github.com/al3ssandrocaruso/restaurantsappdata/raw/main/menus/PDFsMenu/CraccoMenu.pdf"
+         "phone":"02 876774"
       },
       {
          "id":"1",
@@ -20,8 +19,7 @@
          "price":"€€€",
          "address": "Corso Roma",
          "city":"Firenze",
-         "phone":"06 876774",
-         "pdfmenu":"https://github.com/al3ssandrocaruso/restaurantsappdata/raw/main/menus/PDFsMenu/CraccoMenu.pdf"
+         "phone":"06 876774"
       },
       {
          "id":"2",
@@ -31,8 +29,7 @@
          "price":"€",
          "address": "Corso Gino Rossi",
          "city":"Roma",
-         "phone":"06 876774",
-         "pdfmenu":"https://github.com/al3ssandrocaruso/restaurantsappdata/raw/main/menus/PDFsMenu/CraccoMenu.pdf"
+         "phone":"06 876774"
       },
       {
          "id":"3",
@@ -42,8 +39,7 @@
          "price":"€€",
          "address": "Piazza Carlo Felice 22",
          "city":"Torino",
-         "phone":"011 238223",
-         "pdfmenu":"https://github.com/al3ssandrocaruso/restaurantsappdata/raw/main/menus/PDFsMenu/CraccoMenu.pdf"
+         "phone":"011 238223"
       }
       ,
       {
@@ -54,8 +50,7 @@
          "price":"€€",
          "address": "Corso Vittorio Veneto",
          "city":"Padova",
-         "phone":"09 876774",
-         "pdfmenu":"https://github.com/al3ssandrocaruso/restaurantsappdata/raw/main/menus/PDFsMenu/CraccoMenu.pdf"
+         "phone":"09 876774"
       }
       
    ],
