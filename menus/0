@@ -95,7 +95,7 @@
          "price":"4"
       }
    ],
-   "desserts"[
+   "desserts":[
       {
          "name":"Panna cotta al mango",
          "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/panna_cotta_mango.jpg",
