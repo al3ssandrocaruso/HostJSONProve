@@ -5,24 +5,62 @@
       {
          "name":"Tagliere salumi e formaggi",
          "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/tagliere.jpg",
-         "description":"descrizione tagliere salumi",
+         "description":"descrizione tagliere salumi e formaggi",
          "price":"8.50"
       },
       {
-         "name":"Mozzarella e Tartufo",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/mozzarellatartufo.jpg",
-         "description":"mozzarella con tartufo",
-         "price":"6"
-      }
+         "name":"Bruschette al pomodoro",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/bruschette.jpg",
+         "description":"descrizione bruschette al pomodoro",
+         "price":"5.50"
+      }      
    ],
    "firstcourses":[
       {
-         "name":"Amatriciana Cracco",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Amatriciana.jpg",
-         "description":"descrizione amatriciana",
-         "price":"14.90"
-      }
+         "name":"Cozze e pesto di pistacchi",
+         "poster":"",
+         "description":"descrizione cozze e pesto di pistacchi",
+         "price":"12.50"
+      },
+      {
+         "name":"Tonno e zucchine",
+         "poster":"",
+         "description":"descrizione pasta Tonno e zucchine",
+         "price":"11.00"
+      },
+      {
+         "name":"Pasta allo scoglio",
+         "poster":"",
+         "description":"descrizione pasta allo scoglio",
+         "price":"11.50"
+      },
+      {
+         "name":"Pappardelle ai porcini",
+         "poster":"",
+         "description":"descrizione pappardelle ai porcini",
+         "price":"11.00"
+      },
+      {
+         "name":"Tagliatelle al ragù",
+         "poster":"",
+         "description":"descrizione tagliatelle al ragù",
+         "price":"10.50"
+      }      
    ],
+   "secondcourses":[
+      {
+         "name":"Tagliata di manzo",
+         "poster":"",
+         "description":"descrizione tagliata di manzo",
+         "price":"12.00"
+      },
+      {
+         "name":"Cotoletta",
+         "poster":"",
+         "description":"descrizione cotoletta",
+         "price":"7.50"
+      }
+   ]
    "totalstarters":2,
-   "totalfirstcourses":1
+   "totalfirstcourses":5
 }
