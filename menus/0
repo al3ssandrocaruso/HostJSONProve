@@ -46,20 +46,6 @@
          "description":"descrizione tagliatelle al ragù",
          "price":"10.50"
       }      
-   ],
-   "secondcourses":[
-      {
-         "name":"Tagliata di manzo",
-         "poster":"",
-         "description":"descrizione tagliata di manzo",
-         "price":"12.00"
-      },
-      {
-         "name":"Cotoletta",
-         "poster":"",
-         "description":"descrizione cotoletta",
-         "price":"7.50"
-      }
    ]
    "totalstarters":2,
    "totalfirstcourses":5
