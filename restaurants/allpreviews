@@ -9,6 +9,7 @@
          "address": "Corso Vittorio Emanuele II",
          "city":"Milano",
          "phone":"02 876774"
+         "pdfmenu":"https://github.com/al3ssandrocaruso/restaurantsappdata/blob/main/menus/PDFsMenu/CraccoMenu.pdf"
       },
       {
          "id":"1",
