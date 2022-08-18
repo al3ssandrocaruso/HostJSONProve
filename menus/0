@@ -21,32 +21,8 @@
          "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/pasta_cozze_pistacchi.jpg",
          "description":"descrizione cozze e pesto di pistacchi",
          "price":"12.50"
-      },
-      {
-         "name":"Tonno e zucchine",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/pasta_tonno_zucchine.jpg",
-         "description":"descrizione pasta Tonno e zucchine",
-         "price":"11.00"
-      },
-      {
-         "name":"Pasta allo scoglio",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/primo_pesce.jpg",
-         "description":"descrizione pasta allo scoglio",
-         "price":"11.50"
-      },
-      {
-         "name":"Pappardelle ai porcini",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/pappardelle_porcini.jpg",
-         "description":"descrizione pappardelle ai porcini",
-         "price":"11.00"
-      },
-      {
-         "name":"Tagliatelle al ragù",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/tagliatelle_ragu.jpg",
-         "description":"descrizione tagliatelle al ragù",
-         "price":"10.50"
-      }      
+      } 
    ]
    "totalstarters":2,
-   "totalfirstcourses":5
+   "totalfirstcourses":1
 }
