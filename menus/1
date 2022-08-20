@@ -1,0 +1,151 @@
+{
+   "id":"1",
+   "ristorante":"SUGO Lounge",
+   "starters":[
+      {
+         "name":"Prosciutto e mozzarella di bufala",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/tagliere.jpg",
+         "description":"descrizione tagliere salumi e formaggi",
+         "price":"8.50"
+      },
+      {
+         "name":"Bruschette al pomodoro",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/bruschette.jpg",
+         "description":"descrizione bruschette al pomodoro",
+         "price":"5.50"
+      }      
+   ],
+   "firstcourses":[
+      {
+         "name":"Cozze e pesto di pistacchi",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/pasta_cozze_pistacchi.jpg",
+         "description":"descrizione cozze e pesto di pistacchi",
+         "price":"12.50"
+      },
+      {
+         "name":"Fettuccine con ragù di cinghiale",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/fettuccine-ragu-di-cinghiale.jpg",
+         "description":"Fettuccine con ragù di cinghiale e crumble al cioccolato",
+         "price":"11.00"
+      },
+      {
+         "name":"Spaghetti allo scoglio",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/spaghetti_allo_scoglio.jpg",
+         "description":"descrizione spaghetti allo scoglio",
+         "price":"11.50"
+      },
+      {
+         "name":"Pappardelle ai porcini",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/pappardelle-ai-funghi.jpg",
+         "description":"descrizione pappardelle ai funghi porcini",
+         "price":"11.00"
+      },
+      {
+         "name":"Tagliatelle al ragù",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/tagliatelle-ragu.jpg",
+         "description":"descrizione tagliatelle al ragù",
+         "price":"10.50"
+      }     
+   ],
+   "secondcourses":[
+      {
+         "name":"Tagliata di manzo",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/tagliata-di-manzo.jpg",
+         "description":"descrizione tagliata di manzo",
+         "price":"12.00"
+      },
+      {
+         "name":"Cotoletta",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/cotoletta-patatine.jpg",
+         "description":"descrizione cotoletta e patatine",
+         "price":"7.50"
+      }
+   ],
+   "sides":[
+      {
+         "name":"Insalata greca",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/insalata_greca.jpg",
+         "description":"descrizione insalata greca",
+         "price":"4"
+      },
+      {
+         "name":"Patate",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/patate-al-forno.jpg",
+         "description":"patate al forno",
+         "price":"3.50"
+      },
+      {
+         "name":"Zucchine grigliate",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/zucchine-grigliate.jpg",
+         "description":"descrizione zucchine grigliate",
+         "price":"3"
+      }
+   ],
+   "fruits":[
+      {
+         "name":"Frutta mista",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/piatto-frutta.jpg",
+         "description":"descrizione frutta mista",
+         "price":"6"
+      },
+      {
+         "name":"Spiedini di frutta",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/spiedini_frutta.jpg",
+         "description":"descrizione spiedini di frutta",
+         "price":"4"
+      }
+   ],
+   "desserts":[
+      {
+         "name":"Panna cotta al mango",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/panna_cotta_mango.jpg",
+         "description":"descrizione panna cotta al mango",
+         "price":"4.50"
+      },
+      {
+         "name":"Mille foglie",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/millefoglie.jpg",
+         "description":"descrizione mille foglie",
+         "price":"4.50"
+      },
+      {
+         "name":"Cheescake alla fragola",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/cheesecake.png",
+         "description":"descrizione cheescake alla fragola",
+         "price":"5"
+      }
+   ],
+   "drinks":[
+      {
+         "name":"Acqua naturale",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/acqua_naturale.png",
+         "description":"Acqua naturale",
+         "price":"2"
+      },
+      {
+         "name":"Acqua frizzante",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/acqua_frizzante.png",
+         "description":"Acqua frizzante",
+         "price":"2"
+      },
+      {
+         "name":"Coca-Cola",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/coca_cola.png",
+         "description":"Coca-Cola",
+         "price":"3"
+      },
+      {
+         "name":"Birra Beck's",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/becks.png",
+         "description":"Birra Beck's",
+         "price":"4"
+      }
+   ],
+   "totalstarters":2,
+   "totalfirstcourses":5,
+   "totalsecondcourses":2,
+   "totalsides":3,
+   "totalfruits":2,
+   "totaldesserts":3,
+   "totaldrinks":4
+}
