@@ -3,17 +3,47 @@
    "ristorante":"SUGO Lounge",
    "starters":[
       {
-         "name":"Prosciutto e mozzarella di bufala",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/tagliere.jpg",
-         "description":"descrizione tagliere salumi e formaggi",
-         "price":"8.50"
+         "name":"Arrosticini di Pecora",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SUGO/arrosticini-pecora.webp",
+         "description":"10 pezzi",
+         "price":"5.50"
       },
       {
          "name":"Bruschette al pomodoro",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/bruschette.jpg",
-         "description":"descrizione bruschette al pomodoro",
-         "price":"5.50"
-      }      
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SUGO/bruschette.jpeg",
+         "description":"1 pezzo",
+         "price":"3.50"
+      },      
+      {
+         "name":"Coratella",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SUGO/coratella.jpeg",
+         "description":"Una delle ricette romanesche più conosciute, accompagnata da carciofi",
+         "price":"7.00"
+      },
+      {
+         "name":"Polpette al sugo",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SUGO/polpette.webp",
+         "description":"10 pezzi",
+         "price":"10.00"
+      },
+      {
+         "name":"Prosciutto e mozzarella",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SUGO/prosciutto_e_mozzarella.jpeg",
+         "description":"Un antipasto fresco e squisito",
+         "price":"12.00"
+      },   
+      {
+         "name":"Suppli",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SUGO/suppli.jpeg",
+         "description":"1 pezzo",
+         "price":"2.00"
+      },   
+      {
+         "name":"Trippa",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SUGO/trippa.jpeg",
+         "description":"Antipasto romano per eccellenza",
+         "price":"5.00"
+      }
    ],
    "firstcourses":[
       {
@@ -141,7 +171,7 @@
          "price":"4"
       }
    ],
-   "totalstarters":2,
+   "totalstarters":7,
    "totalfirstcourses":5,
    "totalsecondcourses":2,
    "totalsides":3,
