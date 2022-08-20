@@ -12,7 +12,7 @@
       },
       {
          "id":"1",
-         "name":"SUGO Lounge",
+         "name":"Sugo & Basilico",
          "type":"Italian",
          "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/logos/logosugo.png",
          "price":"€€€",
@@ -22,7 +22,7 @@
       },
       {
          "id":"2",
-         "name":"Mexican City",
+         "name":"Billy Tacos",
          "type":"Mexican",
          "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/logos/logomexican.png",
          "price":"€",
@@ -45,7 +45,7 @@
          "id":"4",
          "name":"Starbucks",
          "type":"Coffee break",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/logos/starbuckslogo.png",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/logos/logostarbucks.png",
          "price":"€€",
          "address": "Corso Vittorio Veneto",
          "city":"Padova",
