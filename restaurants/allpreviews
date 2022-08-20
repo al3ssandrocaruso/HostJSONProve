@@ -24,7 +24,7 @@
          "id":"2",
          "name":"Mexican City",
          "type":"Mexican",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/logos/logomexican.jpg",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/logos/logomexican.png",
          "price":"€",
          "address": "Corso Gino Rossi",
          "city":"Roma",
