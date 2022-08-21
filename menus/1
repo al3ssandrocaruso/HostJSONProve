@@ -67,17 +67,35 @@
    ],
    "secondcourses":[
       {
-         "name":"Tagliata di manzo",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/tagliata-di-manzo.jpg",
-         "description":"descrizione tagliata di manzo",
+         "name":"Straccetti di filetti di manzo",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SUGO/straccetti.jpeg",
+         "description":"Manzo, Farina 00, Olio extravergine d'oliva, Rucola, Parmigiano Reggiano e Sale Marino",
          "price":"12.00"
       },
       {
-         "name":"Cotoletta",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/cotoletta-patatine.jpg",
-         "description":"descrizione cotoletta e patatine",
-         "price":"7.50"
-      }
+         "name":"Saltimbocca alla Romana",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SUGO/saltimbocca.jpeg",
+         "description":"Fettine di vitello, Prosciutto crudo, Burro, Salvia, Farina 00, Pepe Nero e Olio extravergine d'oliva",
+         "price":"11.00"
+      },
+      {
+         "name":"Scaloppine al limone",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SUGO/scaloppine.jpeg",
+         "description":"Fettine di vitello, Succo di Limone, Pepe Nero e Sale fino",
+         "price":"10.00"
+      },
+      {
+         "name":"Petto di pollo",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SUGO/pollo.jpeg",
+         "description":"Pollo, Olio extravergine d'oliva e Sale fino",
+         "price":"9.00"
+      },
+      {
+         "name":"Fiorentina alla brace",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SUGO/fiorentina.jpeg",
+         "description":"Prezzo al kg",
+         "price":"35.00"
+      },
    ],
    "sides":[
       {
@@ -161,7 +179,7 @@
    ],
    "totalstarters":5,
    "totalfirstcourses":5,
-   "totalsecondcourses":2,
+   "totalsecondcourses":5,
    "totalsides":3,
    "totalfruits":2,
    "totaldesserts":3,
