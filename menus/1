@@ -119,16 +119,16 @@
    ],
    "fruits":[
       {
-         "name":"Frutta mista",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/piatto-frutta.jpg",
-         "description":"descrizione frutta mista",
-         "price":"6"
+         "name":"Macedonia",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SUGO/macedonia.jpeg",
+         "description":"Fragole, Succo di Limone, Melone, Banane e Ananas",
+         "price":"7.00"
       },
       {
-         "name":"Spiedini di frutta",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/spiedini_frutta.jpg",
-         "description":"descrizione spiedini di frutta",
-         "price":"4"
+         "name":"Ananas",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SUGO/ananas.jpeg",
+         "description":"Ananas fresco",
+         "price":"5.00"
       }
    ],
    "desserts":[
