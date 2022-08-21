@@ -1,5 +1,5 @@
 {
-   "id":1,
+   "id":"1",
    "ristorante":"Sugo & Basilico",
    "starters":[
       {
@@ -95,7 +95,7 @@
          "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SUGO/fiorentina.jpeg",
          "description":"Prezzo al kg",
          "price":"35.00"
-      },
+      }
    ],
    "sides":[
       {
