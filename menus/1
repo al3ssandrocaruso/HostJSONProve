@@ -99,22 +99,22 @@
    ],
    "sides":[
       {
-         "name":"Insalata greca",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/insalata_greca.jpg",
-         "description":"descrizione insalata greca",
-         "price":"4"
+         "name":"Cicoria",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SUGO/cicoria.jpeg",
+         "description":"Cicoria ripassata in padella con un pizzico di peperoncino",
+         "price":"5.00"
       },
       {
-         "name":"Patate",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/patate-al-forno.jpg",
-         "description":"patate al forno",
-         "price":"3.50"
+         "name":"Patate al forno",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SUGO/patate.jpeg",
+         "description":"Patate cotte al forno condite con un filo di olio extravergine di oliva",
+         "price":"5.00"
       },
       {
-         "name":"Zucchine grigliate",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/zucchine-grigliate.jpg",
-         "description":"descrizione zucchine grigliate",
-         "price":"3"
+         "name":"Broccoletti",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SUGO/broccoletti.jpeg",
+         "description":"Broccoletti ripassati in padella con aglio, olio e peperoncino",
+         "price":"5.00"
       }
    ],
    "fruits":[
