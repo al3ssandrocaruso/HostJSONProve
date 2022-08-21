@@ -13,13 +13,7 @@
          "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SUGO/bruschette.jpeg",
          "description":"1 pezzo",
          "price":"3.50"
-      },      
-      {
-         "name":"Coratella",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SUGO/coratella.jpeg",
-         "description":"Una delle ricette romanesche più conosciute, accompagnata da carciofi",
-         "price":"7.00"
-      },
+      },     
       {
          "name":"Polpette al sugo",
          "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SUGO/polpette.webp",
@@ -37,12 +31,6 @@
          "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SUGO/suppli.jpeg",
          "description":"1 pezzo",
          "price":"2.00"
-      },   
-      {
-         "name":"Trippa",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SUGO/trippa.jpeg",
-         "description":"Antipasto romano per eccellenza",
-         "price":"5.00"
       }
    ],
    "firstcourses":[
@@ -171,7 +159,7 @@
          "price":"4"
       }
    ],
-   "totalstarters":7,
+   "totalstarters":5,
    "totalfirstcourses":5,
    "totalsecondcourses":2,
    "totalsides":3,
