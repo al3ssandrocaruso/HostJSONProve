@@ -47,18 +47,123 @@
          "price":"9.90"
       },
       {
-         "name":"Beyond Burger",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/beyondburger.png",
-         "description":"Proteina: Burger 100% vegetariano BEYOND MEAT Plus: Iceberg, Pomodoro, Teriyaki sauce",
-         "price":"12.90"
-      },
-      {
          "name":"Chicken Wok",
          "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/chickenwok.png",
          "description":"Riso saltato con carote e zucchine alla julienne e soia, con pollo, salsa teriyaki e sesamo",
          "price":"8.90"
       }
    ],
+   "secondcourses":[
+      {
+         "name":"Beyond Burger",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/beyondburger.png",
+         "description":"Proteina: Burger 100% vegetariano BEYOND MEAT Plus: Iceberg, Pomodoro, Teriyaki sauce",
+         "price":"12.90"
+      },
+      {
+         "name":"Chicken Burger",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/chickenburger.png",
+         "description":"PROTEINA: Pollo PLUS: Avocado, Carote, Iceberg",
+         "price":"9.90"
+      },
+      {
+         "name":"Beyond Wrap",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/beyondwrap.png",
+         "description":"Proteina: Burger 100% vegetale BEYOND MEAT Plus: Iceberg, Pomodoro, Teriyaki sauce",
+         "price":"8.90"
+      },
+      {
+         "name":"Salmon Wrap",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/salmonwrap.png",
+         "description":"PROTEINA: Salmone Scottato PLUS: Avocado, Pomodoro, Rucola, Teriyaki sauce, Maionese piccante",
+         "price":"6.90"
+      }
+   ],
+   "sides":[
+      {
+         "name":"Insalata greca",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/insalata_greca.jpg",
+         "description":"descrizione insalata greca",
+         "price":"4"
+      },
+      {
+         "name":"Patate",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/patate-al-forno.jpg",
+         "description":"patate al forno",
+         "price":"3.50"
+      },
+      {
+         "name":"Zucchine grigliate",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/zucchine-grigliate.jpg",
+         "description":"descrizione zucchine grigliate",
+         "price":"3"
+      }
+   ],
+   "fruits":[
+      {
+         "name":"Frutta mista",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/piatto-frutta.jpg",
+         "description":"descrizione frutta mista",
+         "price":"6"
+      },
+      {
+         "name":"Spiedini di frutta",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/spiedini_frutta.jpg",
+         "description":"descrizione spiedini di frutta",
+         "price":"4"
+      }
+   ],
+   "desserts":[
+      {
+         "name":"Panna cotta al mango",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/panna_cotta_mango.jpg",
+         "description":"descrizione panna cotta al mango",
+         "price":"4.50"
+      },
+      {
+         "name":"Mille foglie",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/millefoglie.jpg",
+         "description":"descrizione mille foglie",
+         "price":"4.50"
+      },
+      {
+         "name":"Cheescake alla fragola",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/cheesecake.png",
+         "description":"descrizione cheescake alla fragola",
+         "price":"5"
+      }
+   ],
+   "drinks":[
+      {
+         "name":"Acqua naturale",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/acqua_naturale.png",
+         "description":"Acqua naturale",
+         "price":"2"
+      },
+      {
+         "name":"Acqua frizzante",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/acqua_frizzante.png",
+         "description":"Acqua frizzante",
+         "price":"2"
+      },
+      {
+         "name":"Coca-Cola",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/coca_cola.png",
+         "description":"Coca-Cola",
+         "price":"3"
+      },
+      {
+         "name":"Birra Beck's",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/becks.png",
+         "description":"Birra Beck's",
+         "price":"4"
+      }
+   ],
    "totalstarters":4,
-   "totalfirstcourses":5
+   "totalfirstcourses":4,
+   "totalsecondcourses":4,
+   "totalsides":0,
+   "totalfruits":0,
+   "totaldesserts":0,
+   "totaldrinks":0
 }
