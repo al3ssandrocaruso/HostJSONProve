@@ -9,6 +9,12 @@
          "price":"6.90"
       },
       {
+         "name":"French Fries",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/patate.png",
+         "description":"Patatine fritte ad aria",
+         "price":"4.90"
+      },
+      {
          "name":"Guacamole Chips",
          "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/guacamolechips.png",
          "description":"Nachos barbebietola con guacamole",
