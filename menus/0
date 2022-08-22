@@ -62,41 +62,35 @@
       },
       {
          "name":"Chicken Burger",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/chickenburger.png",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/chickenburger.png",
          "description":"PROTEINA: Pollo PLUS: Avocado, Carote, Iceberg",
          "price":"9.90"
       },
       {
          "name":"Beyond Wrap",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/beyondwrap.png",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/beyondwrap.png",
          "description":"Proteina: Burger 100% vegetale BEYOND MEAT Plus: Iceberg, Pomodoro, Teriyaki sauce",
          "price":"8.90"
       },
       {
          "name":"Salmon Wrap",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/salmonwrap.png",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/salmonwrap.png",
          "description":"PROTEINA: Salmone Scottato PLUS: Avocado, Pomodoro, Rucola, Teriyaki sauce, Maionese piccante",
          "price":"6.90"
       }
    ],
    "sides":[
       {
-         "name":"Insalata greca",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/insalata_greca.jpg",
-         "description":"descrizione insalata greca",
-         "price":"4"
+         "name":"Salmon Tartare",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/salmontartare.png",
+         "description":"Tartare di salmone marinato con menta e lime, mango, olio EVO",
+         "price":"10.90"
       },
       {
-         "name":"Patate",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/patate-al-forno.jpg",
-         "description":"patate al forno",
-         "price":"3.50"
-      },
-      {
-         "name":"Zucchine grigliate",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/zucchine-grigliate.jpg",
-         "description":"descrizione zucchine grigliate",
-         "price":"3"
+         "name":"Tuna Tartare",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/tunatartare.png",
+         "description":"Tartare di tonno marinato con olio di sesamo, avocado e mandorle",
+         "price":"11.90"
       }
    ],
    "fruits":[
@@ -162,7 +156,7 @@
    "totalstarters":4,
    "totalfirstcourses":4,
    "totalsecondcourses":4,
-   "totalsides":0,
+   "totalsides":2,
    "totalfruits":0,
    "totaldesserts":0,
    "totaldrinks":0
