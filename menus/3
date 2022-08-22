@@ -7,6 +7,12 @@
          "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/veggienuggets.jpg",
          "description":"Nuggets 100% vegetali fritti ad aria con maionese vegana al lime",
          "price":"6.90"
+      },
+      {
+         "name":"Guacamole Chips",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/guacamolechips.png",
+         "description":"Nachos barbebietola con guacamole",
+         "price":"5.90"
       }
    ],
    "firstcourses":[
@@ -17,6 +23,6 @@
          "price":"7.90"
       }
    ],
-   "totalstarters":1,
+   "totalstarters":2,
    "totalfirstcourses":1
 }
