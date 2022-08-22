@@ -34,7 +34,7 @@
          "id":"3",
          "name":"Billy Tacos",
          "type":"Mexican",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/logos/billytacoslogo2.png",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/logos/billytacoslogo.png",
          "price":"€",
          "address": "Corso Gino Rossi",
          "city":"Roma",
