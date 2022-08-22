@@ -15,6 +15,12 @@
          "price":"4.90"
       },
       {
+         "name":"Orange Edamame",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/orangeedamame.png",
+         "description":"Edamame all'arancia con salsa teriyaki",
+         "price":"4.90"
+      },
+      {
          "name":"Guacamole Chips",
          "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/guacamolechips.png",
          "description":"Nachos barbebietola con guacamole",
@@ -29,6 +35,6 @@
          "price":"11.90"
       }
    ],
-   "totalstarters":2,
+   "totalstarters":4,
    "totalfirstcourses":1
 }
