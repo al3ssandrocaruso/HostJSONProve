@@ -123,28 +123,28 @@
    ],
    "drinks":[
       {
-         "name":"Acqua naturale",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/acqua_naturale.png",
-         "description":"Acqua naturale",
-         "price":"2"
+         "name":"Healty Water",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/healtywater.png",
+         "description":"50cl - Acqua liscia in Tetrapak 100% riciclabile",
+         "price":"2.00"
       },
       {
-         "name":"Acqua frizzante",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/acqua_frizzante.png",
-         "description":"Acqua frizzante",
-         "price":"2"
+         "name":"Fanta",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/fanta.png",
+         "description":"33cl - Bottiglietta in vetro",
+         "price":"3.00"
       },
       {
          "name":"Coca-Cola",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/coca_cola.png",
-         "description":"Coca-Cola",
-         "price":"3"
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/cocacola.png",
+         "description":"33cl - Bottiglietta in vetro",
+         "price":"3.00"
       },
       {
-         "name":"Birra Beck's",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/becks.png",
-         "description":"Birra Beck's",
-         "price":"4"
+         "name":"Healty Beer",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/beer.png",
+         "description":"Birra Saison artigianale autoprodotta di ispirazione belga a base di zenzero - Alc 5%",
+         "price":"4.00"
       }
    ],
    "totalstarters":4,
@@ -153,5 +153,5 @@
    "totalsides":2,
    "totalfruits":2,
    "totaldesserts":2,
-   "totaldrinks":0
+   "totaldrinks":4
 }
