@@ -17,10 +17,10 @@
    ],
    "firstcourses":[
       {
-         "name":"Bowl Riso",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/BowlRiso.jpg",
-         "description":"descrizione bowl riso",
-         "price":"7.90"
+         "name":"Red Poke",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/redpoke.png",
+         "description":"PROTEINA: Tartare di Fassona PLUS: Verza rossa, Goma Wakame, Edamame, Pomodori secchi, noci BASE: Riso SALSA: Teriyaki al tartufo",
+         "price":"11.90"
       }
    ],
    "totalstarters":2,
