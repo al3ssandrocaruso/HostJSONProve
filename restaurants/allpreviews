@@ -40,18 +40,6 @@
          "city":"Torino",
          "phone":"011 238223"
       }
-      ,
-      {
-         "id":"4",
-         "name":"Starbucks",
-         "type":"Coffee break",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/logos/logostarbucks.png",
-         "price":"€€",
-         "address": "Corso Vittorio Veneto",
-         "city":"Padova",
-         "phone":"09 876774"
-      }
-      
    ],
-   "totalResults":5
+   "totalResults":4
 }
