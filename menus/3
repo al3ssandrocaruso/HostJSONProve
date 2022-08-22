@@ -33,8 +33,32 @@
          "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/redpoke.png",
          "description":"PROTEINA: Tartare di Fassona PLUS: Verza rossa, Goma Wakame, Edamame, Pomodori secchi, noci BASE: Riso SALSA: Teriyaki al tartufo",
          "price":"11.90"
+      },
+      {
+         "name":"Salmon Wok",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/salmonwok.png",
+         "description":"Riso saltato con carote e zucchine alla julienne e soia, con salmone scottato, salsa teriyaki e sesamo",
+         "price":"9.90"
+      },
+      {
+         "name":"Veggie Wok",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/veggiewok.png",
+         "description":"Riso saltato con carote e zucchine alla julienne e soia, con salsa teriyaki e sesamo",
+         "price":"7.90"
+      },
+      {
+         "name":"Chicken Wok",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/chickenwok.png",
+         "description":"Riso saltato con carote e zucchine alla julienne e soia, con pollo, salsa teriyaki e sesamo",
+         "price":"8.90"
+      },
+      {
+         "name":"Beyond Burger",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/beyondburger.png",
+         "description":"Proteina: Burger 100% vegetariano BEYOND MEAT Plus: Iceberg, Pomodoro, Teriyaki sauce",
+         "price":"12.90"
       }
    ],
    "totalstarters":4,
-   "totalfirstcourses":1
+   "totalfirstcourses":5
 }
