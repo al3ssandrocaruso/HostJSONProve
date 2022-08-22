@@ -95,36 +95,30 @@
    ],
    "fruits":[
       {
-         "name":"Frutta mista",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/piatto-frutta.jpg",
-         "description":"descrizione frutta mista",
-         "price":"6"
+         "name":"Macedonia",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/macedonia.png",
+         "description":"Preparazione di frutti misti crudi, variamente conditi",
+         "price":"8.90"
       },
       {
          "name":"Spiedini di frutta",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/spiedini_frutta.jpg",
-         "description":"descrizione spiedini di frutta",
-         "price":"4"
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/spiedinifrutta.png",
+         "description":"Diverse tipologie di frutti servite tagliate a pezzetti",
+         "price":"9.90"
       }
    ],
    "desserts":[
       {
-         "name":"Panna cotta al mango",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/panna_cotta_mango.jpg",
-         "description":"descrizione panna cotta al mango",
-         "price":"4.50"
+         "name":"Cheescake",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/cheesecake.png",
+         "description":"Torta Cheesecake con topping ai frutti di bosco o nutella",
+         "price":"5.90"
       },
       {
-         "name":"Mille foglie",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/millefoglie.jpg",
-         "description":"descrizione mille foglie",
-         "price":"4.50"
-      },
-      {
-         "name":"Cheescake alla fragola",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/cheesecake.png",
-         "description":"descrizione cheescake alla fragola",
-         "price":"5"
+         "name":"Chocolate Cake",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/chocolatecake.png",
+         "description":"Pancake con crema di nocciole, lamponi, banana e granella di pistacchio Size: Regular (2 Strati)",
+         "price":"5.90"
       }
    ],
    "drinks":[
@@ -157,7 +151,7 @@
    "totalfirstcourses":4,
    "totalsecondcourses":4,
    "totalsides":2,
-   "totalfruits":0,
-   "totaldesserts":0,
+   "totalfruits":2,
+   "totaldesserts":2,
    "totaldrinks":0
 }
