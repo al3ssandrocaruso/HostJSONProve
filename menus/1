@@ -75,22 +75,22 @@
    ],
    "sides":[
       {
-         "name":"Insalata greca",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/insalata_greca.jpg",
-         "description":"descrizione insalata greca",
-         "price":"4"
+         "name":"Patatine",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SmashBurger/patatine.png",
+         "description":"Patatine fritte nell'olio",
+         "price":"3.80"
       },
       {
-         "name":"Patate",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/patate-al-forno.jpg",
-         "description":"patate al forno",
-         "price":"3.50"
+         "name":"Onion Rings",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SmashBurger/onion.png",
+         "description":"Anelli di cipolla",
+         "price":"4.20"
       },
       {
-         "name":"Zucchine grigliate",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/zucchine-grigliate.jpg",
-         "description":"descrizione zucchine grigliate",
-         "price":"3"
+         "name":"Coleslaw",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SmashBurger/coleslaw.png",
+         "description":"Insalata di cavolo cappuccio crudo",
+         "price":"4.20"
       }
    ],
    "fruits":[
