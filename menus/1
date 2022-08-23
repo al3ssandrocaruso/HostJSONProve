@@ -95,16 +95,22 @@
    ],
    "fruits":[
       {
-         "name":"Frutta mista",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/piatto-frutta.jpg",
-         "description":"descrizione frutta mista",
-         "price":"6"
+         "name":"Macedonia",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/macedonia.png",
+         "description":"Preparazione di frutti misti crudi, variamente conditi",
+         "price":"8.90"
       },
       {
-         "name":"Spiedini di frutta",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/spiedini_frutta.jpg",
-         "description":"descrizione spiedini di frutta",
-         "price":"4"
+         "name":"Papaya",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/papaya.png",
+         "description":"Piatto di papaya fresca tagliata alla julienne",
+         "price":"5.90"
+      },
+      {
+         "name":"Mango",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/mango.png",
+         "description":"Piatto con mango fresco tagliato a cubetti",
+         "price":"5.90"
       }
    ],
    "desserts":[
@@ -157,7 +163,7 @@
    "totalfirstcourses":5,
    "totalsecondcourses":3,
    "totalsides":3,
-   "totalfruits":2,
+   "totalfruits":3,
    "totaldesserts":3,
    "totaldrinks":4
 }
