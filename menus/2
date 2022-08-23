@@ -154,31 +154,31 @@
    "drinks":[
       {
          "name":"Acqua Naturale",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/water.png",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SUGO/water.png",
          "description":"50cl - Acqua liscia",
          "price":"1.30"
       },
       {
          "name":"Acqua Frizzante",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/sparkly.png",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SUGO/sparkly.png",
          "description":"50cl - Acqua Effervescente Naturale",
          "price":"1.30"
       },
       {
          "name":"Coca-Cola",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/cocacola.png",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SUGO/cocacola.png",
          "description":"33cl - Lattina",
          "price":"3.20"
       },
       {
          "name":"Birra Messina",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/messina.png",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SUGO/messina.png",
          "description":"50 cl - Dorata, dall'aroma floreale e fruttato, con un ingrediente segreto: i cristalli di sale di Sicilia",
          "price":"6.50"
       },
       {
          "name":"Ichnusa",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/ichnusa.png",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SUGO/ichnusa.png",
          "description":"50cl - Lager non filtrata, aroma fruttato a bassa fermentazione",
          "price":"6.50"
       }
