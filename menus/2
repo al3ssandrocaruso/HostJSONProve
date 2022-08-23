@@ -133,48 +133,54 @@
    ],
    "desserts":[
       {
-         "name":"Panna cotta al mango",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/panna_cotta_mango.jpg",
-         "description":"descrizione panna cotta al mango",
-         "price":"4.50"
+         "name":"Cheescake",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/cheesecake.png",
+         "description":"Cheesecake con salsa alla fragola",
+         "price":"6.40"
       },
       {
-         "name":"Mille foglie",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/millefoglie.jpg",
-         "description":"descrizione mille foglie",
-         "price":"4.50"
+         "name":"Churros - 3 Pezzi",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/churros3.png",
+         "description":"Pastelle dolci ripiene di crema di nocciole, fritte e ricoperte di zucchero",
+         "price":"3.00"
       },
       {
-         "name":"Cheescake alla fragola",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/cheesecake.png",
-         "description":"descrizione cheescake alla fragola",
-         "price":"5"
+         "name":"Churros - 5 Pezzi",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/churros5.png",
+         "description":"Pastelle dolci ripiene di crema di nocciole, fritte e ricoperte di zucchero",
+         "price":"5.00"
       }
    ],
    "drinks":[
       {
-         "name":"Acqua naturale",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/acqua_naturale.png",
-         "description":"Acqua naturale",
-         "price":"2"
+         "name":"Acqua Naturale",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/water.png",
+         "description":"50cl - Acqua liscia",
+         "price":"1.30"
       },
       {
-         "name":"Acqua frizzante",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/acqua_frizzante.png",
-         "description":"Acqua frizzante",
-         "price":"2"
+         "name":"Acqua Frizzante",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/sparkly.png",
+         "description":"50cl - Acqua Effervescente Naturale",
+         "price":"1.30"
       },
       {
          "name":"Coca-Cola",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/coca_cola.png",
-         "description":"Coca-Cola",
-         "price":"3"
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/cocacola.png",
+         "description":"33cl - Lattina",
+         "price":"3.20"
       },
       {
-         "name":"Birra Beck's",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/becks.png",
-         "description":"Birra Beck's",
-         "price":"4"
+         "name":"Birra Messina 5%",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/messina.png",
+         "description":"50 cl - Dorata, dall'aroma floreale e fruttato, con un ingrediente segreto: i cristalli di sale di Sicilia",
+         "price":"6.50"
+      },
+      {
+         "name":"Ichnusa non Filtrata 5%",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/ichnusa.png",
+         "description":"50cl - Lager non filtrata, aroma fruttato a bassa fermentazione",
+         "price":"6.50"
       }
    ],
    "totalstarters":5,
@@ -183,5 +189,5 @@
    "totalsides":3,
    "totalfruits":2,
    "totaldesserts":3,
-   "totaldrinks":4
+   "totaldrinks":5
 }
