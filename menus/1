@@ -23,34 +23,34 @@
    ],
    "firstcourses":[
       {
-         "name":"Cozze e pesto di pistacchi",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/pasta_cozze_pistacchi.jpg",
-         "description":"descrizione cozze e pesto di pistacchi",
-         "price":"12.50"
+         "name":"Smokey Smashed",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SmashBurger/smokey.png",
+         "description":"Smashed hamburger di bovino, cheddar, bacon croccante, crispy onion e salsa smokey baconnaise",
+         "price":"8.00"
       },
       {
-         "name":"Fettuccine con ragù di cinghiale",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/fettuccine-ragu-di-cinghiale.jpg",
-         "description":"Fettuccine con ragù di cinghiale e crumble al cioccolato",
-         "price":"11.00"
+         "name":"BBQ Smashed",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SmashBurger/bbq.png",
+         "description":"Smashed hamburger di bovino, cheddar, bacon croccante, lattuga, pomodoro ramato, cipolla di Tropea caramellata e salsa bbq",
+         "price":"8.00"
       },
       {
-         "name":"Spaghetti allo scoglio",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/spaghetti_allo_scoglio.jpg",
-         "description":"descrizione spaghetti allo scoglio",
-         "price":"11.50"
+         "name":"Unoriginal Smashed",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SmashBurger/unoriginal.png",
+         "description":"Smashed hamburger di bovino, cheddar, lattuga, pomodoro, cetriolini sott'aceto e salsa original",
+         "price":"7.75"
       },
       {
-         "name":"Pappardelle ai porcini",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/pappardelle-ai-funghi.jpg",
-         "description":"descrizione pappardelle ai funghi porcini",
-         "price":"11.00"
+         "name":"Chili Smashed",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SmashBurger/chili.png",
+         "description":"Smashed hamburger di bovino, chili con carne, cheddar e bacon croccante",
+         "price":"8.50"
       },
       {
-         "name":"Tagliatelle al ragù di cinghiale",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/tagliatelle-ragu.jpg",
-         "description":"descrizione tagliatelle al ragù di cinghiale",
-         "price":"10.50"
+         "name":"Honeymoon Smashed",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SmashBurger/honey.png",
+         "description":"Smashed hamburger di bovino, cheddar, bacon croccante, lattuga iceberg e senape al miele",
+         "price":"7.50"
       }     
    ],
    "secondcourses":[
