@@ -1,19 +1,25 @@
 {
    "id":"1",
-   "ristorante":"Cracco Restaurant",
+   "ristorante":"Smash Burger",
    "starters":[
       {
-         "name":"Tagliere salumi e formaggi",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/tagliere.jpg",
-         "description":"descrizione tagliere salumi e formaggi",
-         "price":"8.50"
+         "name":"Nachos",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SmashBurger/nachos.png",
+         "description":"Tortillas di mais",
+         "price":"4.50"
       },
       {
-         "name":"Bruschette al pomodoro",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/Cracco/bruschette.jpg",
-         "description":"descrizione bruschette al pomodoro",
-         "price":"5.50"
-      }      
+         "name":"Cheddar Nachos",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SmashBurger/cheddarnachos.png",
+         "description":"Tortillas di mais e salsa cheddar",
+         "price":"5.00"
+      }, 
+      {
+         "name":"Spicy Nachos",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SmashBurger/spicynachos.png",
+         "description":"Tortillas di mais, chili, jalapenos e panna acida",
+         "price":"6.00"
+      }
    ],
    "firstcourses":[
       {
@@ -141,7 +147,7 @@
          "price":"4"
       }
    ],
-   "totalstarters":2,
+   "totalstarters":3,
    "totalfirstcourses":5,
    "totalsecondcourses":2,
    "totalsides":3,
