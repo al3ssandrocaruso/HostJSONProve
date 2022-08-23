@@ -135,28 +135,34 @@
    ],
    "drinks":[
       {
-         "name":"Acqua naturale",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SmashBurger/acqua_naturale.png",
-         "description":"Acqua naturale",
-         "price":"2"
+         "name":"Acqua Naturale",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SmashBurger/water.png",
+         "description":"50cl - Acqua liscia",
+         "price":"1.80"
       },
       {
-         "name":"Acqua frizzante",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SmashBurger/acqua_frizzante.png",
-         "description":"Acqua frizzante",
-         "price":"2"
+         "name":"Acqua Frizzante",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SmashBurger/sparkly.png",
+         "description":"50cl - Acqua Effervescente Naturale",
+         "price":"1.80"
       },
       {
          "name":"Coca-Cola",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SmashBurger/coca_cola.png",
-         "description":"Coca-Cola",
-         "price":"3"
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SmashBurger/cocacola.png",
+         "description":"33cl - Bottiglietta in vetro",
+         "price":"3.50"
       },
       {
-         "name":"Birra Beck's",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SmashBurger/becks.png",
-         "description":"Birra Beck's",
-         "price":"4"
+         "name":"Tennet's"
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SmashBurger/tennets.png",
+         "description":"33cl - Con una spuma fine e compatta, la Tennent's è una birra dal corpo pieno e denso, dal colore giallo intenso con riflessi ramati",
+         "price":"4.50"
+      },
+      {
+         "name":"Ichnusa non Filtrata 5%",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SmashBurger/ichnusa.png",
+         "description":"33cl - Lager non filtrata, aroma fruttato a bassa fermentazione",
+         "price":"4.00"
       }
    ],
    "totalstarters":3,
@@ -165,5 +171,5 @@
    "totalsides":3,
    "totalfruits":3,
    "totaldesserts":3,
-   "totaldrinks":4
+   "totaldrinks":5
 }
