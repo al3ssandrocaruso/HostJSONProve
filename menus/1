@@ -35,7 +35,7 @@
          "price":"8.00"
       },
       {
-         "name":"Unoriginal Smashed",
+         "name":"Unoriginal Smash",
          "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SmashBurger/unoriginal.png",
          "description":"Smashed hamburger di bovino, cheddar, lattuga, pomodoro, cetriolini sott'aceto e salsa original",
          "price":"7.75"
@@ -47,7 +47,7 @@
          "price":"8.50"
       },
       {
-         "name":"Honeymoon Smashed",
+         "name":"Honeymoon Smash",
          "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SmashBurger/honey.png",
          "description":"Smashed hamburger di bovino, cheddar, bacon croccante, lattuga iceberg e senape al miele",
          "price":"7.50"
@@ -75,7 +75,7 @@
    ],
    "sides":[
       {
-         "name":"Patatine",
+         "name":"French Fries",
          "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SmashBurger/patatine.png",
          "description":"Patatine fritte nell'olio",
          "price":"3.80"
@@ -127,7 +127,7 @@
          "price":"3.20"
       },
       {
-         "name":"Loacker Gelato Biscotto Napolitaner",
+         "name":"Loacker Biscotto",
          "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SmashBurger/loacker.png",
          "description":"Cremoso gelato alla nocciola e al cacao racchiuso tra due gustosi biscotti.",
          "price":"3.20"
@@ -153,13 +153,13 @@
          "price":"3.50"
       },
       {
-         "name":"Tennet's",
+         "name":"Tennent's",
          "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SmashBurger/tennets.png",
          "description":"33cl - Con una spuma fine e compatta, la Tennent's è una birra dal corpo pieno e denso, dal colore giallo intenso con riflessi ramati",
          "price":"4.50"
       },
       {
-         "name":"Ichnusa non Filtrata 5%",
+         "name":"Ichnusa",
          "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SmashBurger/ichnusa.png",
          "description":"33cl - Lager non filtrata, aroma fruttato a bassa fermentazione",
          "price":"4.00"
