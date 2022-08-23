@@ -49,28 +49,22 @@
    ],
    "secondcourses":[
       {
-         "name":"Beyond Burger",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/beyondburger.png",
-         "description":"Proteina: Burger 100% vegetariano BEYOND MEAT Plus: Iceberg, Pomodoro, Teriyaki sauce",
-         "price":"12.90"
+         "name":"Naked Bowl de Pollo",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/bowlpollo.png",
+         "description":"Riso, fagioli, pollo alla messicana, insalata, pico de gallo e salsa a scelta",
+         "price":"10.90"
       },
       {
-         "name":"Chicken Burger",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/chickenburger.png",
-         "description":"PROTEINA: Pollo PLUS: Avocado, Carote, Iceberg",
-         "price":"9.90"
+         "name":"Naked Bowl Chili con Carne",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/bowlchili.png",
+         "description":"Riso, fagioli, chili con carne, insalata, pico de gallo e salsa a scelta",
+         "price":"10.90"
       },
       {
-         "name":"Beyond Wrap",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/beyondwrap.png",
-         "description":"Proteina: Burger 100% vegetale BEYOND MEAT Plus: Iceberg, Pomodoro, Teriyaki sauce",
-         "price":"8.90"
-      },
-      {
-         "name":"Salmon Wrap",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/salmonwrap.png",
-         "description":"PROTEINA: Salmone Scottato PLUS: Avocado, Pomodoro, Rucola, Teriyaki sauce, Maionese piccante",
-         "price":"6.90"
+         "name":"Naked Bowl Chorizo",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/bowlchorizo.png",
+         "description":"Riso, fagioli, chorizo , insalata, pico de gallo e salsa a scelta",
+         "price":"10.90"
       }
    ],
    "sides":[
@@ -143,7 +137,7 @@
    ],
    "totalstarters":3,
    "totalfirstcourses":4,
-   "totalsecondcourses":4,
+   "totalsecondcourses":3,
    "totalsides":2,
    "totalfruits":2,
    "totaldesserts":2,
