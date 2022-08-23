@@ -3,7 +3,7 @@
    "ristorante":"Billy Tacos",
    "starters":[
       {
-         "name":"Tacos Pollo e Guacamole",
+         "name":"Tacos Pollo",
          "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/tacospollo.png",
          "description":"4 tortillas classiche ripiene di listarelle di pollo, guacamole e maionese",
          "price":"10.90"
@@ -29,7 +29,7 @@
          "price":"11.90"
       },
       {
-         "name":"Burrito Chili con Carne",
+         "name":"Burrito Chili",
          "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/burritochili.png",
          "description":"Tortilla classica, riso, fagioli, chili con carne, insalata, pico de gallo e salsa a scelta",
          "price":"11.90"
@@ -41,7 +41,7 @@
          "price":"11.90"
       },
       {
-         "name":"French Taco Tex Mex",
+         "name":"Taco Tex Mex",
          "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/texmex.png",
          "description":"Tortilla classica, patate fritte, tex mex , cheddar, maionese e salsa a scelta",
          "price":"11.90"
@@ -49,19 +49,19 @@
    ],
    "secondcourses":[
       {
-         "name":"Naked Bowl de Pollo",
+         "name":"Bowl de Pollo",
          "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/bowlpollo.png",
          "description":"Riso, fagioli, pollo alla messicana, insalata, pico de gallo e salsa a scelta",
          "price":"10.90"
       },
       {
-         "name":"Naked Bowl Chili con Carne",
+         "name":"Bowl Chili",
          "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/bowlchili.png",
          "description":"Riso, fagioli, chili con carne, insalata, pico de gallo e salsa a scelta",
          "price":"10.90"
       },
       {
-         "name":"Naked Bowl Chorizo",
+         "name":"Bowl Chorizo",
          "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/bowlchorizo.png",
          "description":"Riso, fagioli, chorizo , insalata, pico de gallo e salsa a scelta",
          "price":"10.90"
@@ -69,15 +69,15 @@
    ],
    "sides":[
       {
-         "name":"Nachos Panna e Pico",
+         "name":"Nachos Panna",
          "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/nachospanna.png",
          "description":"Nachos ricoperti di panna acida e pico de gallo",
          "price":"5.50"
       },
       {
-         "name":"Nachos per una persona",
+         "name":"Nachos",
          "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/nachos.png",
-         "description":"Nachos e una salsa a scelta",
+         "description":"Porzione di nachos per una persona con una salsa a scelta",
          "price":"2.90"
       }
    ],
@@ -109,13 +109,13 @@
          "price":"6.40"
       },
       {
-         "name":"Churros - 3 Pezzi",
+         "name":"Churros - 3 Pz.",
          "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/churros3.png",
          "description":"Pastelle dolci ripiene di crema di nocciole, fritte e ricoperte di zucchero",
          "price":"3.00"
       },
       {
-         "name":"Churros - 5 Pezzi",
+         "name":"Churros - 5 Pz.",
          "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/churros5.png",
          "description":"Pastelle dolci ripiene di crema di nocciole, fritte e ricoperte di zucchero",
          "price":"5.00"
@@ -141,13 +141,13 @@
          "price":"3.20"
       },
       {
-         "name":"Birra Messina 5%",
+         "name":"Birra Messina",
          "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/messina.png",
          "description":"50 cl - Dorata, dall'aroma floreale e fruttato, con un ingrediente segreto: i cristalli di sale di Sicilia",
          "price":"6.50"
       },
       {
-         "name":"Ichnusa non Filtrata 5%",
+         "name":"Ichnusa",
          "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/ichnusa.png",
          "description":"50cl - Lager non filtrata, aroma fruttato a bassa fermentazione",
          "price":"6.50"
