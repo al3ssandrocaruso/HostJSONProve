@@ -69,16 +69,16 @@
    ],
    "sides":[
       {
-         "name":"Salmon Tartare",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/salmontartare.png",
-         "description":"Tartare di salmone marinato con menta e lime, mango, olio EVO",
-         "price":"10.90"
+         "name":"Nachos Panna e Pico",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/nachospanna.png",
+         "description":"Nachos ricoperti di panna acida e pico de gallo",
+         "price":"5.50"
       },
       {
-         "name":"Tuna Tartare",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/tunatartare.png",
-         "description":"Tartare di tonno marinato con olio di sesamo, avocado e mandorle",
-         "price":"11.90"
+         "name":"Nachos per una persona",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/nachos.png",
+         "description":"Nachos e una salsa a scelta",
+         "price":"2.90"
       }
    ],
    "fruits":[
