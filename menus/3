@@ -84,62 +84,80 @@
    "fruits":[
       {
          "name":"Macedonia",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/macedonia.png",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/macedonia.png",
          "description":"Preparazione di frutti misti crudi, variamente conditi",
          "price":"8.90"
       },
       {
-         "name":"Spiedini di frutta",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/spiedinifrutta.png",
-         "description":"Diverse tipologie di frutti servite tagliate a pezzetti",
-         "price":"9.90"
+         "name":"Papaya",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/papaya.png",
+         "description":"Piatto di papaya fresca tagliata alla julienne",
+         "price":"5.90"
+      },
+      {
+         "name":"Mango",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/mango.png",
+         "description":"Piatto con mango fresco tagliato a cubetti",
+         "price":"5.90"
       }
    ],
    "desserts":[
       {
          "name":"Cheescake",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/cheesecake.png",
-         "description":"Torta Cheesecake con topping ai frutti di bosco o nutella",
-         "price":"5.90"
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/cheesecake.png",
+         "description":"Cheesecake con salsa alla fragola",
+         "price":"6.40"
       },
       {
-         "name":"Chocolate Cake",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/chocolatecake.png",
-         "description":"Pancake con crema di nocciole, lamponi, banana e granella di pistacchio Size: Regular (2 Strati)",
-         "price":"5.90"
+         "name":"Churros - 3 Pezzi",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/churros3.png",
+         "description":"Pastelle dolci ripiene di crema di nocciole, fritte e ricoperte di zucchero",
+         "price":"3.00"
+      },
+      {
+         "name":"Churros - 5 Pezzi",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/churros5.png",
+         "description":"Pastelle dolci ripiene di crema di nocciole, fritte e ricoperte di zucchero",
+         "price":"5.00"
       }
    ],
    "drinks":[
       {
-         "name":"Healty Water",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/healtywater.png",
-         "description":"50cl - Acqua liscia in Tetrapak 100% riciclabile",
-         "price":"2.00"
+         "name":"Acqua Naturale",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/water.png",
+         "description":"50cl - Acqua liscia",
+         "price":"1.30"
       },
       {
-         "name":"Fanta",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/fanta.png",
-         "description":"33cl - Bottiglietta in vetro",
-         "price":"3.00"
+         "name":"Acqua Frizzante",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/sparkly.png",
+         "description":"50cl - Acqua Effervescente Naturale",
+         "price":"1.30"
       },
       {
          "name":"Coca-Cola",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/cocacola.png",
-         "description":"33cl - Bottiglietta in vetro",
-         "price":"3.00"
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/cocacola.png",
+         "description":"33cl - Lattina",
+         "price":"3.20"
       },
       {
-         "name":"Healty Beer",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/HealtyColor/beer.png",
-         "description":"Birra Saison artigianale autoprodotta di ispirazione belga a base di zenzero - Alc 5%",
-         "price":"4.00"
+         "name":"Birra Messina 5%",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/messina.png",
+         "description":"50 cl - Dorata, dall'aroma floreale e fruttato, con un ingrediente segreto: i cristalli di sale di Sicilia",
+         "price":"6.50"
+      },
+      {
+         "name":"Ichnusa non Filtrata 5%",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/ichnusa.png",
+         "description":"50cl - Lager non filtrata, aroma fruttato a bassa fermentazione",
+         "price":"6.50"
       }
    ],
    "totalstarters":3,
    "totalfirstcourses":4,
    "totalsecondcourses":3,
    "totalsides":2,
-   "totalfruits":2,
-   "totaldesserts":2,
-   "totaldrinks":4
+   "totalfruits":3,
+   "totaldesserts":3,
+   "totaldrinks":5
 }
