@@ -8,17 +8,17 @@
          "price":"€€",
          "address": "Piazza Carlo Felice 22",
          "city":"Torino",
-         "phone":"011 238223"
+         "phone":"011 7652435"
       },
       {
          "id":"1",
-         "name":"Cracco Restaurant",
-         "type":"Italian",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/logos/logocracco.png",
-         "price":"€€€€",
-         "address": "Corso Vittorio Emanuele",
-         "city":"Milano",
-         "phone":"02 876774"
+         "name":"Smash Burger",
+         "type":"Aus Burger",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/logos/logosmash.png",
+         "price":"€",
+         "address": "Via Emanuele Filiberto 12",
+         "city":"Roma",
+         "phone":"06 69348366"
       },
       {
          "id":"2",
@@ -26,9 +26,9 @@
          "type":"Italian",
          "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/logos/logosugo.png",
          "price":"€€€",
-         "address": "Corso Roma",
+         "address": "Via della Bufalotta 330",
          "city":"Firenze",
-         "phone":"06 876774"
+         "phone":"06 87677432"
       },
       {
          "id":"3",
@@ -36,9 +36,9 @@
          "type":"Mexican",
          "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/logos/billytacoslogo.png",
          "price":"€",
-         "address": "Corso Gino Rossi",
+         "address": "Via di Valle Aurelia 30",
          "city":"Roma",
-         "phone":"06 876774"
+         "phone":"06 96564332"
       }
    ],
    "totalResults":4
