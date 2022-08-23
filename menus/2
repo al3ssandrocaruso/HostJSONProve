@@ -4,7 +4,7 @@
    "starters":[
       {
          "name":"Arrosticini di Pecora",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SUGO/bruschette.jpeg",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SUGO/arrosticini.png",
          "description":"10 pezzi",
          "price":"5.50"
       },
@@ -16,7 +16,7 @@
       },     
       {
          "name":"Polpette al sugo",
-        "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SUGO/bruschette.jpeg",
+        "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SUGO/polpette.png",
           "description":"10 pezzi",
          "price":"10.00"
       },
