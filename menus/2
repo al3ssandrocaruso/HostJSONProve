@@ -134,21 +134,21 @@
    "desserts":[
       {
          "name":"Cheescake",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/cheesecake.png",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SUGO/cheesecake.png",
          "description":"Cheesecake con salsa alla fragola",
          "price":"6.40"
       },
       {
-         "name":"Churros - 3 Pz.",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/churros3.png",
-         "description":"Pastelle dolci ripiene di crema di nocciole, fritte e ricoperte di zucchero",
-         "price":"3.00"
+         "name":"Torta della Nonna",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SUGO/tortanonna.png",
+         "description":"Dolce classico a base di pasta frolla, farcito con crema pasticcera e ricoperto di pinoli",
+         "price":"8.00"
       },
       {
-         "name":"Churros - 5 Pz.",
-         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/BillyTacos/churros5.png",
-         "description":"Pastelle dolci ripiene di crema di nocciole, fritte e ricoperte di zucchero",
-         "price":"5.00"
+         "name":"Tiramisù",
+         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SUGO/tiramisu.png",
+         "description":"Crema al mascarpone e savoiardi al caffè",
+         "price":"6.00"
       }
    ],
    "drinks":[
