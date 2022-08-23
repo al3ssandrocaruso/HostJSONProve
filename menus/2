@@ -3,7 +3,7 @@
    "ristorante":"Sugo & Basilico",
    "starters":[
       {
-         "name":"Arrosticini",
+         "name":"Arrosticini di Pecora",
          "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SUGO/arrosticini.png",
          "description":"Arrosticini di pecora, 10 pezzi",
          "price":"5.50"
@@ -15,7 +15,7 @@
          "price":"3.50"
       },     
       {
-         "name":"Polpette al sugo",
+         "name":"Polpette al sugo di Pomodoro",
         "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SUGO/polpette.png",
           "description":"10 pezzi",
          "price":"10.00"
@@ -27,7 +27,7 @@
          "price":"12.00"
       },   
       {
-         "name":"Suppli",
+         "name":"Suppli al Telefono",
          "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SUGO/suppli.jpeg",
          "description":"1 pezzo",
          "price":"2.00"
