@@ -170,12 +170,5 @@
          "description":"33cl - Lattina",
          "price":"3.20"
       }
-   ],
-   "totalstarters":5,
-   "totalfirstcourses":5,
-   "totalsecondcourses":5,
-   "totalsides":3,
-   "totalfruits":2,
-   "totaldesserts":3,
-   "totaldrinks":3
+   ]
 }
