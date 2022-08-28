@@ -33,7 +33,7 @@
          "price":"2.00"
       }
    ],
-   "firstcourses":[
+   "firstCourses":[
       {
          "name":"Gricia",
          "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SUGO/gricia.jpeg",
@@ -65,7 +65,7 @@
          "price":"14.00"
       }
    ],
-   "secondcourses":[
+   "secondCourses":[
       {
          "name":"Straccetti di manzo",
          "poster":"https://raw.githubusercontent.com/al3ssandrocaruso/restaurantsappdata/main/menus/menuimages/SUGO/straccetti.jpeg",
